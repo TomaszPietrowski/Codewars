@@ -8,8 +8,8 @@ import XCTest
 func nbDig(_ n: Int, _ d: Int) -> Int {
     return (0...n)
         .map { number -> Int in
-            let dCount = String(number * number).components(separatedBy: String(d)).count - 1
-            return dCount < 0 ? 0 : dCount
+            let digitCount = String(number * number).components(separatedBy: String(d)).count - 1
+            return max(0, digitCount)
         }
         .reduce(0, +)
 }
