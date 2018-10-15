@@ -10,3 +10,4 @@ Solutions for some [Codewars](https://www.codewars.com) katas.
 ### 5KYU
 * [Diophantine Equation](5KYU/DiophantineEquation.playground) ([details](https://www.codewars.com/kata/diophantine-equation))
 * [First Variation on Caesar Cipher](5KYU/FirstVariationOnCaesarCipher.playground) ([details](https://www.codewars.com/kata/first-variation-on-caesar-cipher))
+* [Square Matrix Multiplication](5KYU/SquareMatrixMultiplication.playground) ([details](https://www.codewars.com/kata/5263a84ffcadb968b6000513))
