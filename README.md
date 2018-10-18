@@ -15,3 +15,4 @@ Solutions for some [Codewars](https://www.codewars.com) katas.
 
 ### 4KYU
 * [Human readable duration format](4KYU/HumanReadableDurationFormat.playground) ([details](https://www.codewars.com/kata/52742f58faf5485cae000b9a))
+* [Twice linear](4KYU/TwiceLinear.playground) ([details](https://www.codewars.com/kata/5672682212c8ecf83e000050))
