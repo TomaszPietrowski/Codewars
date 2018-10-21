@@ -7,6 +7,9 @@ Solutions for some [Codewars](https://www.codewars.com) katas.
 ### 7KYU
 * [Count the Digit](7KYU/CountTheDigit.playground) ([details](https://www.codewars.com/kata/566fc12495810954b1000030))
 
+### 6KYU
+* [Reverse or rotate](6KYU/ReverseOrRotate.playground) ([details](https://www.codewars.com/kata/reverse-or-rotate))
+
 ### 5KYU
 * [Diophantine Equation](5KYU/DiophantineEquation.playground) ([details](https://www.codewars.com/kata/diophantine-equation))
 * [First Variation on Caesar Cipher](5KYU/FirstVariationOnCaesarCipher.playground) ([details](https://www.codewars.com/kata/first-variation-on-caesar-cipher))
