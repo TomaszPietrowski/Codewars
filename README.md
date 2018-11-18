@@ -19,6 +19,7 @@ Solutions for some [Codewars](https://www.codewars.com) katas.
 * [Weight for weight](5KYU/WeightForWeight.playground) ([details](https://www.codewars.com/kata/55c6126177c9441a570000cc))
 * [Factorial decomposition](5KYU/FactorialDecomposition.playground) ([details](https://www.codewars.com/kata/5a045fee46d843effa000070))
 * [Integers: Recreation One](5KYU/IntegersRecreationOne.playground) ([details](https://www.codewars.com/kata/55aa075506463dac6600010d))
+* [Perimeter of squares in a rectangle](5KYU/PerimeterOfSquaresInRectangle.playground) ([details](https://www.codewars.com/kata/perimeter-of-squares-in-a-rectangle))
 
 ### 4KYU
 * [Human readable duration format](4KYU/HumanReadableDurationFormat.playground) ([details](https://www.codewars.com/kata/52742f58faf5485cae000b9a))
