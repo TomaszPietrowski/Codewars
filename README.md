@@ -9,6 +9,7 @@ Solutions for some [Codewars](https://www.codewars.com) katas.
 
 ### 6KYU
 * [Reverse or rotate](6KYU/ReverseOrRotate.playground) ([details](https://www.codewars.com/kata/reverse-or-rotate))
+* [Consecutive strings](6KYU/ConsecutiveStrings.playground) ([details](https://www.codewars.com/kata/56a5d994ac971f1ac500003e))
 
 ### 5KYU
 * [Diophantine Equation](5KYU/DiophantineEquation.playground) ([details](https://www.codewars.com/kata/diophantine-equation))
